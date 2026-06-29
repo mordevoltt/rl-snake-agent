@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+env/
+kod/env/
+venv/
+.venv/
+*.log
+
+# Teacher Files
+rapor/
+*.pdf
+*.pptx
+*.docx
+final_sinav_cevaplari.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
